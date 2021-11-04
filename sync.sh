@@ -1,0 +1,1 @@
+rsync -avz --delete -e 'ssh -p 8022' ./ ubuntu@siskodian.demooke.com:~/binomo/
